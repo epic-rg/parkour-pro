@@ -1,2 +1,2 @@
 # parkour-pro
-hey oooooo this is my scripts for my game parlour pro
+hey oooooo this is my scripts for my game parkour pro
